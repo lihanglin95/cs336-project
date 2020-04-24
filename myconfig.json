@@ -1,0 +1,10 @@
+wait_time=15
+tcp_port=6666
+udp_src_port=9876
+udp_dst_port=8765
+udp_packet_ttl=255
+udp_packet_num=6000
+udp_packet_size=1000
+server_addr=127.0.0.1
+tcp_head_syn_port=1
+tcp_tail_syn_port=1
